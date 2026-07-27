@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" pages="2">
   <diagram name="Page-1" id="Qzb4GLcgqQSQ0c5QEtcq">
-    <mxGraphModel dx="911" dy="451" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="815" dy="439" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -194,6 +194,54 @@
         </mxCell>
         <mxCell id="EN1zKal7cfdQ_Eg0dXt0-69" parent="1" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/networking/Network_Security_Groups.svg;" value="" vertex="1">
           <mxGeometry height="28.43" width="23.41" x="704.94" y="109.57" as="geometry" />
+        </mxCell>
+        <mxCell id="CH6OaEaaA-OzTFxefm_m-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value=".Terraform" vertex="1">
+          <mxGeometry height="30" width="120" x="290" y="480" as="geometry" />
+        </mxCell>
+        <mxCell id="CH6OaEaaA-OzTFxefm_m-8" edge="1" parent="1" source="CH6OaEaaA-OzTFxefm_m-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="CH6OaEaaA-OzTFxefm_m-7" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CH6OaEaaA-OzTFxefm_m-19" edge="1" parent="1" source="CH6OaEaaA-OzTFxefm_m-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="CH6OaEaaA-OzTFxefm_m-16" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CH6OaEaaA-OzTFxefm_m-20" edge="1" parent="1" source="CH6OaEaaA-OzTFxefm_m-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="CH6OaEaaA-OzTFxefm_m-7" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CH6OaEaaA-OzTFxefm_m-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Child module" vertex="1">
+          <mxGeometry height="30" width="120" x="40" y="630" as="geometry" />
+        </mxCell>
+        <mxCell id="CH6OaEaaA-OzTFxefm_m-9" edge="1" parent="1" source="CH6OaEaaA-OzTFxefm_m-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="CH6OaEaaA-OzTFxefm_m-6" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CH6OaEaaA-OzTFxefm_m-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Parent module" vertex="1">
+          <mxGeometry height="30" width="120" x="420" y="620" as="geometry" />
+        </mxCell>
+        <mxCell id="CH6OaEaaA-OzTFxefm_m-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="main.tf" vertex="1">
+          <mxGeometry height="30" width="120" x="420" y="680" as="geometry" />
+        </mxCell>
+        <mxCell id="CH6OaEaaA-OzTFxefm_m-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="azurerm_resources" vertex="1">
+          <mxGeometry height="30" width="120" x="128.35" y="700" as="geometry" />
+        </mxCell>
+        <mxCell id="CH6OaEaaA-OzTFxefm_m-11" parent="1" style="text;whiteSpace=wrap;" value="C:\Users\Aayansh\Desktop\Ranjeet_Resume\Telecom" vertex="1">
+          <mxGeometry height="40" width="320" x="20" y="430" as="geometry" />
+        </mxCell>
+        <mxCell id="CH6OaEaaA-OzTFxefm_m-12" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Absolute path" vertex="1">
+          <mxGeometry height="30" width="80" x="40" y="460" as="geometry" />
+        </mxCell>
+        <mxCell id="CH6OaEaaA-OzTFxefm_m-13" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;" value="&lt;font&gt;&quot;../child module/azurerm_resources&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="294.17" x="455.83" y="490" as="geometry" />
+        </mxCell>
+        <mxCell id="CH6OaEaaA-OzTFxefm_m-14" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Relative path" vertex="1">
+          <mxGeometry height="30" width="120" x="465.83" y="460" as="geometry" />
+        </mxCell>
+        <mxCell id="CH6OaEaaA-OzTFxefm_m-16" parent="1" style="whiteSpace=wrap;html=1;" value="module" vertex="1">
+          <mxGeometry height="60" width="120" x="150" y="530" as="geometry" />
+        </mxCell>
+        <mxCell id="CH6OaEaaA-OzTFxefm_m-17" edge="1" parent="1" source="CH6OaEaaA-OzTFxefm_m-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.409;entryY=-0.039;entryDx=0;entryDy=0;entryPerimeter=0;" target="CH6OaEaaA-OzTFxefm_m-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CH6OaEaaA-OzTFxefm_m-21" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Parent module" vertex="1">
+          <mxGeometry height="30" width="120" x="490" y="630" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
