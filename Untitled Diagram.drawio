@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" pages="2">
   <diagram name="Page-1" id="Qzb4GLcgqQSQ0c5QEtcq">
-    <mxGraphModel dx="911" dy="451" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1882" dy="556" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -332,6 +332,121 @@
         </mxCell>
         <mxCell id="qr995r2g0C-RKfiV97X9-23" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;rounded=0;" value="Central US" vertex="1">
           <mxGeometry height="30" width="80" x="540" y="890" as="geometry" />
+        </mxCell>
+        <mxCell id="IUWs_PO4o3K1rPA122KS-3" edge="1" parent="1" source="IUWs_PO4o3K1rPA122KS-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="IUWs_PO4o3K1rPA122KS-2" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IUWs_PO4o3K1rPA122KS-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;fontFamily=Comic Sans MS;" value="Github action" vertex="1">
+          <mxGeometry height="60" width="140" x="300" y="1290" as="geometry" />
+        </mxCell>
+        <mxCell id="IUWs_PO4o3K1rPA122KS-6" edge="1" parent="1" source="IUWs_PO4o3K1rPA122KS-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="IUWs_PO4o3K1rPA122KS-5" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IUWs_PO4o3K1rPA122KS-10" edge="1" parent="1" source="IUWs_PO4o3K1rPA122KS-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="IUWs_PO4o3K1rPA122KS-9" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IUWs_PO4o3K1rPA122KS-2" parent="1" style="whiteSpace=wrap;html=1;fontSize=17;fontFamily=Comic Sans MS;rounded=0;" value="Code" vertex="1">
+          <mxGeometry height="60" width="120" x="300" y="1400" as="geometry" />
+        </mxCell>
+        <mxCell id="IUWs_PO4o3K1rPA122KS-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Terraform" vertex="1">
+          <mxGeometry height="30" width="60" x="280" y="1370" as="geometry" />
+        </mxCell>
+        <mxCell id="IUWs_PO4o3K1rPA122KS-12" edge="1" parent="1" source="IUWs_PO4o3K1rPA122KS-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" target="IUWs_PO4o3K1rPA122KS-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IUWs_PO4o3K1rPA122KS-5" parent="1" style="whiteSpace=wrap;html=1;fontSize=17;fontFamily=Comic Sans MS;rounded=0;" value="GitHub" vertex="1">
+          <mxGeometry height="60" width="120" x="520" y="1400" as="geometry" />
+        </mxCell>
+        <mxCell id="IUWs_PO4o3K1rPA122KS-7" parent="1" style="whiteSpace=wrap;html=1;fontSize=17;fontFamily=Comic Sans MS;rounded=0;" value="GitHub Repo" vertex="1">
+          <mxGeometry height="60" width="120" x="500" y="1540" as="geometry" />
+        </mxCell>
+        <mxCell id="IUWs_PO4o3K1rPA122KS-14" edge="1" parent="1" source="IUWs_PO4o3K1rPA122KS-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="IUWs_PO4o3K1rPA122KS-13" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IUWs_PO4o3K1rPA122KS-9" parent="1" style="whiteSpace=wrap;html=1;fontSize=17;fontFamily=Comic Sans MS;rounded=0;" value="Git clone &amp;lt;URL code&amp;gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="100" y="1400" as="geometry" />
+        </mxCell>
+        <mxCell id="IUWs_PO4o3K1rPA122KS-11" edge="1" parent="1" source="IUWs_PO4o3K1rPA122KS-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.611;entryY=0.978;entryDx=0;entryDy=0;entryPerimeter=0;" target="IUWs_PO4o3K1rPA122KS-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="560" y="1500" />
+              <mxPoint x="173.33" y="1500" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IUWs_PO4o3K1rPA122KS-16" edge="1" parent="1" source="IUWs_PO4o3K1rPA122KS-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="IUWs_PO4o3K1rPA122KS-15" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IUWs_PO4o3K1rPA122KS-13" parent="1" style="whiteSpace=wrap;html=1;fontSize=17;fontFamily=Comic Sans MS;rounded=0;" value="Git add .&lt;br&gt;Git commit -m &quot;comment&quot;&lt;div&gt;Git push&lt;/div&gt;" vertex="1">
+          <mxGeometry height="90" width="120" x="-100" y="1400" as="geometry" />
+        </mxCell>
+        <mxCell id="IUWs_PO4o3K1rPA122KS-19" edge="1" parent="1" source="IUWs_PO4o3K1rPA122KS-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="IUWs_PO4o3K1rPA122KS-18" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IUWs_PO4o3K1rPA122KS-22" edge="1" parent="1" source="IUWs_PO4o3K1rPA122KS-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="IUWs_PO4o3K1rPA122KS-18" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IUWs_PO4o3K1rPA122KS-15" parent="1" style="whiteSpace=wrap;html=1;fontSize=17;fontFamily=Comic Sans MS;rounded=0;" value="staging area" vertex="1">
+          <mxGeometry height="60" width="120" x="-100" y="1245" as="geometry" />
+        </mxCell>
+        <mxCell id="IUWs_PO4o3K1rPA122KS-17" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;verticalAlign=middle;rounded=0;" value="Git add ." vertex="1">
+          <mxGeometry height="30" width="60" x="-70" y="1330" as="geometry" />
+        </mxCell>
+        <mxCell id="IUWs_PO4o3K1rPA122KS-18" parent="1" style="whiteSpace=wrap;html=1;fontSize=17;fontFamily=Comic Sans MS;rounded=0;" value="tracked Area" vertex="1">
+          <mxGeometry height="60" width="90" x="130" y="1245" as="geometry" />
+        </mxCell>
+        <mxCell id="IUWs_PO4o3K1rPA122KS-20" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#d6b656;fillColor=#fff2cc;align=center;verticalAlign=middle;rounded=0;" value="Untracked Area" vertex="1">
+          <mxGeometry height="30" width="60" x="-80" y="1500" as="geometry" />
+        </mxCell>
+        <mxCell id="IUWs_PO4o3K1rPA122KS-21" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Actor" vertex="1">
+          <mxGeometry height="60" width="30" x="410" y="1470" as="geometry" />
+        </mxCell>
+        <mxCell id="IUWs_PO4o3K1rPA122KS-23" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#d79b00;fillColor=#ffe6cc;align=center;verticalAlign=middle;rounded=0;" value="Git commit" vertex="1">
+          <mxGeometry height="30" width="60" x="40" y="1280" as="geometry" />
+        </mxCell>
+        <mxCell id="IUWs_PO4o3K1rPA122KS-24" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" value="merge" vertex="1">
+          <mxGeometry height="60" width="120" x="80" y="1620" as="geometry" />
+        </mxCell>
+        <mxCell id="IUWs_PO4o3K1rPA122KS-26" edge="1" parent="1" source="IUWs_PO4o3K1rPA122KS-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="160" y="1725" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IUWs_PO4o3K1rPA122KS-25" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#d79b00;fillColor=#ffe6cc;align=center;verticalAlign=middle;rounded=0;" value="A" vertex="1">
+          <mxGeometry height="30" width="60" x="40" y="1710" as="geometry" />
+        </mxCell>
+        <mxCell id="IUWs_PO4o3K1rPA122KS-30" edge="1" parent="1" source="IUWs_PO4o3K1rPA122KS-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="IUWs_PO4o3K1rPA122KS-29" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IUWs_PO4o3K1rPA122KS-28" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#d6b656;fillColor=#fff2cc;align=center;verticalAlign=middle;rounded=0;" value="B" vertex="1">
+          <mxGeometry height="30" width="60" x="160" y="1710" as="geometry" />
+        </mxCell>
+        <mxCell id="IUWs_PO4o3K1rPA122KS-36" edge="1" parent="1" source="IUWs_PO4o3K1rPA122KS-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="IUWs_PO4o3K1rPA122KS-35" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IUWs_PO4o3K1rPA122KS-29" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#d6b656;fillColor=#fff2cc;align=center;verticalAlign=middle;rounded=0;" value="C" vertex="1">
+          <mxGeometry height="30" width="60" x="300" y="1710" as="geometry" />
+        </mxCell>
+        <mxCell id="IUWs_PO4o3K1rPA122KS-37" edge="1" parent="1" source="IUWs_PO4o3K1rPA122KS-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="IUWs_PO4o3K1rPA122KS-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IUWs_PO4o3K1rPA122KS-33" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#d6b656;fillColor=#fff2cc;align=center;verticalAlign=middle;rounded=0;" value="E" vertex="1">
+          <mxGeometry height="30" width="60" x="760" y="1695" as="geometry" />
+        </mxCell>
+        <mxCell id="IUWs_PO4o3K1rPA122KS-40" edge="1" parent="1" source="IUWs_PO4o3K1rPA122KS-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="IUWs_PO4o3K1rPA122KS-39" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IUWs_PO4o3K1rPA122KS-35" parent="1" style="whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;gradientColor=none;rounded=0;" value="F" vertex="1">
+          <mxGeometry height="60" width="120" x="410" y="1695" as="geometry" />
+        </mxCell>
+        <mxCell id="IUWs_PO4o3K1rPA122KS-38" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;rounded=0;" value="MERGE" vertex="1">
+          <mxGeometry height="30" width="60" x="460" y="1773" as="geometry" />
+        </mxCell>
+        <mxCell id="IUWs_PO4o3K1rPA122KS-39" parent="1" style="whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;gradientColor=none;rounded=0;" value="G" vertex="1">
+          <mxGeometry height="60" width="120" x="610" y="1695" as="geometry" />
+        </mxCell>
+        <mxCell id="IUWs_PO4o3K1rPA122KS-31" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#d6b656;fillColor=#fff2cc;align=center;verticalAlign=middle;rounded=0;" value="D" vertex="1">
+          <mxGeometry height="30" width="30" x="730" y="1695" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
