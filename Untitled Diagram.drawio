@@ -742,6 +742,42 @@
         <mxCell id="pGceTAEY-vuAcjAy6iHL-12" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="Trigger" vertex="1">
           <mxGeometry height="60" width="120" x="490" y="1125" as="geometry" />
         </mxCell>
+        <mxCell id="iR2rvUKm_uZnZSbtyaQJ-3" edge="1" parent="1" source="iR2rvUKm_uZnZSbtyaQJ-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="iR2rvUKm_uZnZSbtyaQJ-2" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iR2rvUKm_uZnZSbtyaQJ-5" edge="1" parent="1" source="iR2rvUKm_uZnZSbtyaQJ-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="iR2rvUKm_uZnZSbtyaQJ-4" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iR2rvUKm_uZnZSbtyaQJ-7" edge="1" parent="1" source="iR2rvUKm_uZnZSbtyaQJ-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="iR2rvUKm_uZnZSbtyaQJ-6" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iR2rvUKm_uZnZSbtyaQJ-1" parent="1" style="whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" value="&lt;font style=&quot;font-size: 17px;&quot; face=&quot;Comic Sans MS&quot;&gt;Yaml Template Prepare&lt;/font&gt;" vertex="1">
+          <mxGeometry height="60" width="200" x="260" y="1770" as="geometry" />
+        </mxCell>
+        <mxCell id="iR2rvUKm_uZnZSbtyaQJ-2" parent="1" style="whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;Child module repo&lt;/font&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="50" y="1900" as="geometry" />
+        </mxCell>
+        <mxCell id="iR2rvUKm_uZnZSbtyaQJ-4" parent="1" style="whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;Sahare yaml templateRepo&lt;/font&gt;" vertex="1">
+          <mxGeometry height="60" width="160" x="240" y="1900" as="geometry" />
+        </mxCell>
+        <mxCell id="iR2rvUKm_uZnZSbtyaQJ-6" parent="1" style="whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;Main infra Repo&lt;/font&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="500" y="1900" as="geometry" />
+        </mxCell>
+        <mxCell id="iR2rvUKm_uZnZSbtyaQJ-10" edge="1" parent="1" source="iR2rvUKm_uZnZSbtyaQJ-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="iR2rvUKm_uZnZSbtyaQJ-9" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iR2rvUKm_uZnZSbtyaQJ-12" edge="1" parent="1" source="iR2rvUKm_uZnZSbtyaQJ-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="iR2rvUKm_uZnZSbtyaQJ-11" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iR2rvUKm_uZnZSbtyaQJ-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#f8cecc;strokeColor=#b85450;fontFamily=Comic Sans MS;" value="PERAMETERs" vertex="1">
+          <mxGeometry height="60" width="215" x="310" y="2030" as="geometry" />
+        </mxCell>
+        <mxCell id="iR2rvUKm_uZnZSbtyaQJ-9" parent="1" style="whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fillColor=#f8cecc;strokeColor=#b85450;rounded=1;roundedPerimeter=1;" value="String" vertex="1">
+          <mxGeometry height="60" width="120" x="200" y="2140" as="geometry" />
+        </mxCell>
+        <mxCell id="iR2rvUKm_uZnZSbtyaQJ-11" parent="1" style="whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fillColor=#f8cecc;strokeColor=#b85450;rounded=1;roundedPerimeter=1;" value="Boolean" vertex="1">
+          <mxGeometry height="60" width="120" x="490" y="2140" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
