@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" pages="4">
   <diagram name="Page-1" id="Qzb4GLcgqQSQ0c5QEtcq">
-    <mxGraphModel dx="2222" dy="695" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1994" dy="556" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -708,7 +708,7 @@
         <mxCell id="hPCv8AveCsoPX1nH_syR-60" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;verticalAlign=middle;rounded=0;" value="Spoke-02 Resource Group" vertex="1">
           <mxGeometry height="30" width="287.26" x="486.77" y="3090" as="geometry" />
         </mxCell>
-        <mxCell id="hPCv8AveCsoPX1nH_syR-61" parent="1" style="points=[[0,0],[0.25,0],[0.5,0],[0.75,0],[1,0],[1,0.25],[1,0.5],[1,0.75],[1,1],[0.75,1],[0.5,1],[0.25,1],[0,1],[0,0.75],[0,0.5],[0,0.25]];outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;container=1;pointerEvents=0;collapsible=0;recursiveResize=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_security_group;grStroke=0;strokeColor=#00A4A6;fillColor=#E6F6F7;verticalAlign=top;align=left;spacingLeft=30;fontColor=#147EBA;dashed=0;" value="Virtual network-02" vertex="1">
+        <mxCell id="hPCv8AveCsoPX1nH_syR-61" parent="1" style="points=[[0,0],[0.25,0],[0.5,0],[0.75,0],[1,0],[1,0.25],[1,0.5],[1,0.75],[1,1],[0.75,1],[0.5,1],[0.25,1],[0,1],[0,0.75],[0,0.5],[0,0.25]];outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;container=1;pointerEvents=0;collapsible=0;recursiveResize=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_security_group;grStroke=0;strokeColor=#00A4A6;fillColor=#E6F6F7;verticalAlign=top;align=left;spacingLeft=30;fontColor=#147EBA;dashed=0;" value="Virtual network-03" vertex="1">
           <mxGeometry height="230" width="535.55" x="506.77" y="3140" as="geometry" />
         </mxCell>
         <mxCell id="hPCv8AveCsoPX1nH_syR-62" parent="hPCv8AveCsoPX1nH_syR-61" style="points=[[0,0],[0.25,0],[0.5,0],[0.75,0],[1,0],[1,0.25],[1,0.5],[1,0.75],[1,1],[0.75,1],[0.5,1],[0.25,1],[0,1],[0,0.75],[0,0.5],[0,0.25]];outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;container=1;pointerEvents=0;collapsible=0;recursiveResize=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_security_group;grStroke=0;strokeColor=#7AA116;fillColor=#F2F6E8;verticalAlign=top;align=left;spacingLeft=30;fontColor=#248814;dashed=0;" value="Frontend Subnet" vertex="1">
@@ -731,6 +731,9 @@
         </mxCell>
         <mxCell id="hPCv8AveCsoPX1nH_syR-72" parent="hPCv8AveCsoPX1nH_syR-61" style="text;html=1;whiteSpace=wrap;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;rounded=0;" value="Service Endpoint" vertex="1">
           <mxGeometry height="30" width="60" x="474.22" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="0mPPKBDJNhYPL9C5SYNU-1" edge="1" parent="1" source="hPCv8AveCsoPX1nH_syR-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;" target="hPCv8AveCsoPX1nH_syR-60" value="">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="hPCv8AveCsoPX1nH_syR-73" parent="1" style="image;aspect=fixed;html=1;align=center;fontSize=12;image=img/lib/azure2/networking/Virtual_Networks.svg;points=[[0.5,0,0],[0.5,1,0],[0,0.498,0],[1,0.498,0],[0.722,0.005,0],[0.712,0.999,0],[0.288,0.999,0],[0.283,0.001,0]];labelPerimeter=1;" value="" vertex="1">
           <mxGeometry height="30" width="50.25" x="641.29" y="3140" as="geometry" />
@@ -758,7 +761,7 @@
         <mxCell id="hPCv8AveCsoPX1nH_syR-90" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;verticalAlign=middle;rounded=0;" value="Spoke-03 Resource Group" vertex="1">
           <mxGeometry height="30" width="287.26" x="504.85999999999996" y="2690" as="geometry" />
         </mxCell>
-        <mxCell id="hPCv8AveCsoPX1nH_syR-91" parent="1" style="points=[[0,0],[0.25,0],[0.5,0],[0.75,0],[1,0],[1,0.25],[1,0.5],[1,0.75],[1,1],[0.75,1],[0.5,1],[0.25,1],[0,1],[0,0.75],[0,0.5],[0,0.25]];outlineConnect=0;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;container=1;pointerEvents=0;collapsible=0;recursiveResize=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_security_group;grStroke=0;strokeColor=#d6b656;fillColor=#fff2cc;verticalAlign=top;align=left;spacingLeft=30;dashed=0;" value="Virtual network-03" vertex="1">
+        <mxCell id="hPCv8AveCsoPX1nH_syR-91" parent="1" style="points=[[0,0],[0.25,0],[0.5,0],[0.75,0],[1,0],[1,0.25],[1,0.5],[1,0.75],[1,1],[0.75,1],[0.5,1],[0.25,1],[0,1],[0,0.75],[0,0.5],[0,0.25]];outlineConnect=0;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;container=1;pointerEvents=0;collapsible=0;recursiveResize=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_security_group;grStroke=0;strokeColor=#d6b656;fillColor=#fff2cc;verticalAlign=top;align=left;spacingLeft=30;dashed=0;" value="Virtual network-04" vertex="1">
           <mxGeometry height="230" width="485.85" x="524.86" y="2740" as="geometry" />
         </mxCell>
         <mxCell id="hPCv8AveCsoPX1nH_syR-105" parent="hPCv8AveCsoPX1nH_syR-91" style="text;html=1;whiteSpace=wrap;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;rounded=0;" value="Application Gateway (Express Gateway" vertex="1">
