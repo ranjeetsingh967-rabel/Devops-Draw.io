@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" pages="4">
   <diagram name="Page-1" id="Qzb4GLcgqQSQ0c5QEtcq">
-    <mxGraphModel dx="1994" dy="556" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1882" dy="580" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -816,6 +816,21 @@
         </mxCell>
         <mxCell id="hPCv8AveCsoPX1nH_syR-118" edge="1" parent="1" source="hPCv8AveCsoPX1nH_syR-111" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.438;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;defaultLabelBackgroundColor=gap;dashed=1;strokeWidth=3;" target="hPCv8AveCsoPX1nH_syR-116">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JQibzvdyZfw-efLnCzx_-1" parent="1" style="whiteSpace=wrap;html=1;" value="Sabse upr management group hota h" vertex="1">
+          <mxGeometry height="60" width="340" x="-210" y="3530" as="geometry" />
+        </mxCell>
+        <mxCell id="JQibzvdyZfw-efLnCzx_-2" parent="1" style="whiteSpace=wrap;html=1;" value="Iske upar subscription dikhega" vertex="1">
+          <mxGeometry height="60" width="348.67" x="-210" y="3590" as="geometry" />
+        </mxCell>
+        <mxCell id="JQibzvdyZfw-efLnCzx_-3" parent="1" style="whiteSpace=wrap;html=1;" value="Iske upar RG banana h ...RG matalab khali dabba" vertex="1">
+          <mxGeometry height="60" width="340" x="-210" y="3650" as="geometry" />
+        </mxCell>
+        <mxCell id="JQibzvdyZfw-efLnCzx_-4" parent="1" style="whiteSpace=wrap;html=1;" value="RG ke upar 1 vnet abayegnge 3 subnet abanyenge..frontend, subnet, backend subnet aur database subnet" vertex="1">
+          <mxGeometry height="60" width="340" x="-210" y="3710" as="geometry" />
+        </mxCell>
+        <mxCell id="JQibzvdyZfw-efLnCzx_-5" parent="1" style="whiteSpace=wrap;html=1;" value="RG ke upar 1 vnet abayegnge 3 subnet abanyenge..frontend, subnet, backend subnet aur database subnet" vertex="1">
+          <mxGeometry height="60" width="340" x="-210" y="3770" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
