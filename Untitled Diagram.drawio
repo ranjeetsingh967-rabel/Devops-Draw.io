@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="vhUMKruycLi98iRsYtB4-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+        <mxCell id="vhUMKruycLi98iRsYtB4-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="NIC" vertex="1">
           <mxGeometry height="350" width="590" x="-76.25" y="5000" as="geometry" />
         </mxCell>
         <mxCell id="JQibzvdyZfw-efLnCzx_-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" value="" vertex="1">
@@ -916,26 +916,23 @@
         <mxCell id="vhUMKruycLi98iRsYtB4-7" parent="1" style="points=[[0,0],[0.25,0],[0.5,0],[0.75,0],[1,0],[1,0.25],[1,0.5],[1,0.75],[1,1],[0.75,1],[0.5,1],[0.25,1],[0,1],[0,0.75],[0,0.5],[0,0.25]];outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;container=1;pointerEvents=0;collapsible=0;recursiveResize=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_security_group;grStroke=0;strokeColor=#00A4A6;fillColor=#E6F6F7;verticalAlign=top;align=left;spacingLeft=30;fontColor=#147EBA;dashed=0;" value="Virtual network" vertex="1">
           <mxGeometry height="250" width="360" x="-70" y="5060" as="geometry" />
         </mxCell>
+        <mxCell id="vhUMKruycLi98iRsYtB4-13" parent="vhUMKruycLi98iRsYtB4-7" style="points=[[0,0],[0.25,0],[0.5,0],[0.75,0],[1,0],[1,0.25],[1,0.5],[1,0.75],[1,1],[0.75,1],[0.5,1],[0.25,1],[0,1],[0,0.75],[0,0.5],[0,0.25]];outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;container=1;pointerEvents=0;collapsible=0;recursiveResize=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_security_group;grStroke=0;strokeColor=#7AA116;fillColor=#F2F6E8;verticalAlign=top;align=left;spacingLeft=30;fontColor=#248814;dashed=0;" value="Private subnet" vertex="1">
+          <mxGeometry height="131.4" width="130" x="220" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="vhUMKruycLi98iRsYtB4-14" parent="vhUMKruycLi98iRsYtB4-13" style="image;sketch=0;aspect=fixed;html=1;align=center;fontSize=12;image=img/lib/mscae/NetworkInterfaceCard.svg;points=[[0.447,0,0],[0.447,1,0],[0,0.5,0],[0.994,0.427,0],[0.994,0.078,0],[0.894,1,0],[0,1,0],[0,0,0]];labelPerimeter=1;" value="" vertex="1">
+          <mxGeometry height="50" width="44" x="38" y="40.7" as="geometry" />
+        </mxCell>
+        <mxCell id="vhUMKruycLi98iRsYtB4-15" parent="vhUMKruycLi98iRsYtB4-13" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="NIC" vertex="1">
+          <mxGeometry height="30" width="60" x="30" y="91" as="geometry" />
+        </mxCell>
         <mxCell id="vhUMKruycLi98iRsYtB4-8" parent="1" style="points=[[0,0],[0.25,0],[0.5,0],[0.75,0],[1,0],[1,0.25],[1,0.5],[1,0.75],[1,1],[0.75,1],[0.5,1],[0.25,1],[0,1],[0,0.75],[0,0.5],[0,0.25]];outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;container=1;pointerEvents=0;collapsible=0;recursiveResize=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_security_group;grStroke=0;strokeColor=#7AA116;fillColor=#F2F6E8;verticalAlign=top;align=left;spacingLeft=30;fontColor=#248814;dashed=0;" value="Public subnet" vertex="1">
-          <mxGeometry height="188" width="300" x="-50" y="5102" as="geometry" />
+          <mxGeometry height="188" width="180" x="-50" y="5102" as="geometry" />
         </mxCell>
         <mxCell id="vhUMKruycLi98iRsYtB4-9" parent="vhUMKruycLi98iRsYtB4-8" style="image;aspect=fixed;html=1;align=center;fontSize=12;image=img/lib/azure2/networking/Spot_VM.svg;points=[[0.5,0,0],[0.5,1,0],[0,0.5,0],[1,0.5,0],[0.985,0.003,0],[0.75,1,0],[0.25,1,0],[0.015,0.003,0]];labelPerimeter=1;" value="" vertex="1">
           <mxGeometry height="62.8" width="68" x="70" y="68" as="geometry" />
         </mxCell>
         <mxCell id="vhUMKruycLi98iRsYtB4-10" parent="vhUMKruycLi98iRsYtB4-8" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Virtual machine" vertex="1">
           <mxGeometry height="30" width="82" x="63" y="130.8" as="geometry" />
-        </mxCell>
-        <mxCell id="vhUMKruycLi98iRsYtB4-11" edge="1" parent="1" source="vhUMKruycLi98iRsYtB4-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;" target="vhUMKruycLi98iRsYtB4-9">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="442.5" y="5201.4" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="vhUMKruycLi98iRsYtB4-12" connectable="0" parent="vhUMKruycLi98iRsYtB4-11" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];inheritText=fontFamily,fontColor,fontStyle,textOpacity,labelBorderColor,labelBorderWidth,labelBackgroundColor,defaultLabelBackgroundColor,labelPadding;defaultLabelBackgroundColor=page;fontSize=13;" value="Service endpoint" vertex="1">
-          <mxGeometry relative="1" x="-0.0957" y="5" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
