@@ -910,6 +910,14 @@
         <mxCell id="vhUMKruycLi98iRsYtB4-5" parent="1" style="image;aspect=fixed;html=1;align=center;fontSize=12;image=img/lib/azure2/storage/Storage_Accounts.svg;points=[[0.5,0,0],[0.5,1,0],[0.003,0.5,0],[0.998,0.5,0],[0.985,0.007,0],[0.985,0.993,0],[0.015,0.993,0],[0.015,0.007,0]];labelPerimeter=1;" value="" vertex="1">
           <mxGeometry height="52" width="65" x="410" y="5050" as="geometry" />
         </mxCell>
+        <mxCell id="vhUMKruycLi98iRsYtB4-16" edge="1" parent="1" source="vhUMKruycLi98iRsYtB4-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;" target="vhUMKruycLi98iRsYtB4-7" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vhUMKruycLi98iRsYtB4-17" connectable="0" parent="vhUMKruycLi98iRsYtB4-16" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];inheritText=1;defaultLabelBackgroundColor=page;" value="Private endpoint" vertex="1">
+          <mxGeometry relative="1" x="0.1149" y="5" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="vhUMKruycLi98iRsYtB4-6" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#d79b00;fillColor=#ffe6cc;align=center;verticalAlign=middle;rounded=0;" value="Storage account" vertex="1">
           <mxGeometry height="30" width="97.5" x="393.75" y="5102" as="geometry" />
         </mxCell>
